@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marwan 
-- 👀 I’m enjoy coding and developing new programming skills
-- 🌱 I’m currently learning type-script
-- 📫 To reach me, please email marwan.elsisi21@gmail.com
+- 👀 I enjoy coding and developing new programming skills
+- 🌱 I’m currently learning React
+- 📫 To reach me, please email marwan.elsisi55@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I leg-press 300kg :)
 
