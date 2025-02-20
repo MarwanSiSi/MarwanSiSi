@@ -16,5 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwansisi&show_icons=true&theme=radical&locale=en&layout=compact" alt="marwansisi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwansisi&show_icons=true&theme=radical&locale=en" alt="marwansisi" /></p>
 
