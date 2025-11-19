@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
-<h3 align="center">Full-Stack Web Developer | React.js | TypeScript | Node.js | Tailwind CSS | MongoDB</h3>
+<h3 align="center">Software Developer | React.js | TypeScript | Node.js | Backend</h3>
 
 - 🔭 I’m currently working on an admin interface for a hotel, it's everything you need as a hotel front desk agent. The website includes checking-in/checking-out guests, keeping track of bookings along with their details, keeping track of booking settings, as well as adding/editing/and deleting rooms in the hotel.
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Aritiftial Intelligence**
 
-- 💬 Ask me about **React, TypeScript, Front-end development, Tailwind CSS.**
+- 💬 Ask me about **React, TypeScript, Front-end development, Java, OOP**
 
 - 📫 How to reach me **marwanelsisi55@gmail.com**
 
